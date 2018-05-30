@@ -1,0 +1,27 @@
+{
+    "type": "download",
+    "description": "2014-2018 KC Crime Data as provided through OpenData KC.",
+    "sources": [
+        {
+            "file": "KCPD_Crime_Data_2018.csv",
+            "download_url": "https://data.kcmo.org/api/views/dmjw-d28i/rows.csv?accessType=DOWNLOAD",
+            "description": "2018 Crime data as of 2018-05-28. Data definitions: https://data.kcmo.org/Crime/KCPD-Crime-Data-2018/dmjw-d28i"
+        }, {
+            "file": "KCPD_Crime_Data_2017.csv",
+            "download_url": "https://data.kcmo.org/api/views/98is-shjt/rows.csv?accessType=DOWNLOAD",
+            "description": "2017 Crime data as of 2018-02-27. Data definitions: https://data.kcmo.org/Crime/KCPD-Crime-Data-2017/98is-shjt"
+        }, {
+            "file": "KCPD_Crime_Data_2016.csv",
+            "download_url": "https://data.kcmo.org/api/views/wbz8-pdv7/rows.csv?accessType=DOWNLOAD",
+            "description": "2016 Crime data as of 2018-03-07. Data definitions: https://data.kcmo.org/Crime/KCPD-Crime-Data-2016/wbz8-pdv7"
+        }, {
+            "file": "KCPD_Crime_Data_2015.csv",
+            "download_url": "https://data.kcmo.org/api/views/kbzx-7ehe/rows.csv?accessType=DOWNLOAD",
+            "description": "2016 Crime data as of 2018-03-07. Data definitions: https://data.kcmo.org/Crime/KCPD-Crime-Data-2015/kbzx-7ehe"
+        }, {
+            "file": "KCPD_Crime_Data_2014.csv",
+            "download_url": "https://data.kcmo.org/api/views/yu5f-iqbp/rows.csv?accessType=DOWNLOAD",
+            "description": "2015 Crime data as of 2017-02-15. Data definitions: https://data.kcmo.org/Crime/KCPD-Crime-Data-2014/yu5f-iqbp"
+        }
+    ]
+}

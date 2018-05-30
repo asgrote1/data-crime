@@ -1,0 +1,13 @@
+{
+    "type": "download",
+    "description": "2014-2018 KC area weather data as provided by NOAA (CDO): https://www.ncdc.noaa.gov/cdo-web/. ",
+    "sources": [
+        {
+            "file": "1357572.csv",
+            "description": "KC area weather data from 2014-01-01 through 2018-05-28."
+        }, {
+            "file": "receipt.pdf",
+            "description": "Order receipt plus data definitions."
+        }
+    ]
+}
